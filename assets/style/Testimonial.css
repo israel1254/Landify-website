@@ -1,0 +1,188 @@
+.testimonialRaperDev{
+    width: 100%;
+    height: 800px;
+    background-color: rgba(213, 250, 252, 1);
+    position: relative;
+}
+.largequoteImg{
+    width:145px;
+    height: 120px;
+    padding-top: 60px;
+    padding-left: 115px;
+    z-index: 1;
+    position: absolute;
+}
+.testimonialDev{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding-top: 120px;
+    z-index: 2;
+    position: relative;
+}
+.testimonialText{
+width: 400px;
+height: 160px;
+padding-top: 3px;
+padding-left: 9px;
+z-index: 1;
+position: absolute;
+}
+.testimonialText h2{
+   font-family: sans-serif;
+   font-size: 43px;
+   font-weight: 650;
+   color: rgb(1, 4, 19);
+   padding-left: 0;
+   line-height: 58px;
+}
+.testimonialText h5{
+    font-size: 17px;
+    line-height: 37px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: rgb(50, 52, 57);
+}
+.leftCardDev{
+    width: 320px;
+    height: 400px;
+    background-color:rgba(255, 255, 255, 1) ;
+    margin-left: 100px;
+    border-radius: 8px;
+    margin-top: 170px;
+    display: flex;
+    justify-content: center;
+}
+.leftCardDev .hubspotIcon{
+    width: 140px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.leftCardText{
+    padding-left: 10px;
+    padding-top: 10px;
+    display: flex;
+}
+.leftTextDev{
+    padding: 2px;
+    padding-left: 15px;
+}
+.leftTextDev p{
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 350;
+    line-height: 29px;
+    color: rgb(70, 71, 72) ;
+}
+
+.leftNameDev h4{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    letter-spacing: 0;
+    line-height: 28px;
+    color: rgba(24, 25, 31, 1);
+}
+.leftNameDev p{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(150, 155, 171, 1);
+}
+.rightTopDev{
+    width: 400px;
+    height: 310px;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+}
+.rightTopAirbnbImg{
+    width: 130px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.rightTopTextDev{
+    width: 100%;
+    height: auto;
+    padding-left: 5px;
+    padding-top: 25px;
+    display: flex;
+}
+.rightTopQuoteImg{
+    width: 16px;
+    height: 14px;
+}
+.rightTopTextP{
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 350;
+    line-height: 29px;
+    color: rgb(70, 71, 72);
+}
+.rightTopNameDev{
+  padding-top: 27px;
+}
+.rightTopNameDev h1{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 34px;
+}
+.rightTopNameDev p{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 10px;
+    color:rgba(150, 155, 171, 1) ;
+}
+.rightBottomDev{
+    width: 320px;
+    height: 240px;
+    background-color: white;
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+    border-radius: 7px;
+}
+.rightBottomBookMyShowImg{
+    width: 130px;
+    height: 40px;
+    padding-top: 30px;
+}
+.rightBottomText{
+    padding-top: 20px;
+    display: flex;
+}
+.rightBottmQuoteImg{
+    width: 16px;
+    height: 14px;
+}
+.rightBottomTextContener{
+    padding-left: 15px;
+    padding-top: 2px;
+    font-family: sans-serif;
+}
+.rightBottomParagraf{
+    font-size: 16px;
+    font-weight: 350;
+    line-height: 28px;
+    color: rgb(59, 59, 60);
+}
+.rightBottomNameDev{
+    padding-top: 14px;
+}
+.rightBottomNameDev h5{
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+}
+.rightBottomNameDev p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(150, 155, 171, 1);
+}

@@ -1,0 +1,25 @@
+.nevbar{
+    width: 100%;
+    height: 50px;
+    background-color: aliceblue;
+}
+
+.logoimg{
+    width: 100px;
+    height: 25px;
+    padding-left: 80px;
+    padding-right: 20px;
+}
+.rightside{
+    height: 40px;
+    display: flex;
+    padding-left: 3%;
+    padding-right: 80px;
+}
+.rightside a img{
+    width: 115px;
+    height: 35px;
+    padding-right: 10px;
+    cursor: pointer;
+    padding-top: 0px;
+}
